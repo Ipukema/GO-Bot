@@ -22,3 +22,6 @@ For those who want the standalone application and not the source you can downloa
 
 ## Donations
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WXQX4UE94MWY)
+
+## Credits
+Huge thanks to FeroxRev as without his work on PokemonGO.RocketAPI this would not be possible.
