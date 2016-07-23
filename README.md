@@ -11,6 +11,9 @@ Automation platform (auto farmer, bot, etc.) for the popular game Pokemon GO. Th
 - Configuration screen for things such as sending duplicate Pokemon, evolving, minimum CP/IV, etc.
 - More to come!
 
+## Requirements
+Windows operating system with .NET 4.5 or higher installed. Mac users will have to use a Windows virtual machine (recommend Virtualbox).
+
 ## Usage
 For those who want the standalone application and not the source you can download the latest release from the releases tab at the top. Simply download the first zip archive ("GO Bot v0-0-5.zip"), extract and run "GO Bot.exe".
 
