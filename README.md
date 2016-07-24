@@ -24,10 +24,10 @@ For those who want the standalone application and not the source you can downloa
 ![alt tag](https://i.gyazo.com/108520afef24eded5906a2e4b9df59d1.png)
 
 ## FAQ
-1. The bot keeps trying to log in?
+**1. The bot keeps trying to log in?**
 You may have invalid credentials or the login servers could be down. Verify your login details are correct and/or try again later.
 
-2. I can't read the log fast enough, can you slow it down?
+**2. I can't read the log fast enough, can you slow it down?**
 All log messages are saved to a text file on your computer at "C:\Users\{Your username}\GO Bot\Output\output.txt".
 
 ## Donations
