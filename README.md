@@ -17,7 +17,7 @@ Discord chat: https://discord.gg/EHMyv
 Windows operating system with .NET 4.5 or higher installed. Mac users will have to use a Windows virtual machine (recommend Virtualbox).
 
 ## Usage
-For those who want the standalone application and not the source you can download the latest release from the releases tab at the top. Simply download the first zip archive ("GO Bot v0-0-5.zip"), extract and run "GO Bot.exe".
+For those who want the standalone application and not the source you can download the latest release from the releases tab at the top. Direct link: https://github.com/AnthonyOSX/GO-Bot/releases
 
 ![alt tag](https://i.gyazo.com/1313a2121266352b1510ea7c038b6221.png)
 
