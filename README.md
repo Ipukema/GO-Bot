@@ -35,6 +35,9 @@ All log messages are saved to a text file on your computer at "C:\Users\{Your us
 **3. Pokemon keep getting away and Pokestops give no XP and items?**
 Pokestops are more than likely a problem with the response the bot received. You did in fact get xp/items but the bot just didn't recognize it. With Pokemon, you may just be getting unlucky.
 
+**4. The bot keeps crashing on startup?**
+This is something I can't solve within the bot. Please follow the instructions within the answer here: http://stackoverflow.com/questions/17980178/cannot-load-counter-name-data-because-an-invalid-index-exception
+
 ## Donations
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WXQX4UE94MWY)
 
