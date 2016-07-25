@@ -28,7 +28,7 @@ For those who want the standalone application and not the source you can downloa
 ![alt tag](https://i.gyazo.com/108520afef24eded5906a2e4b9df59d1.png)
 
 ## FAQ
-Q: Where do I download the bot?
+Q: Where do I download the bot?  
 A: Head over to https://github.com/AnthonyOSX/GO-Bot/releases and download the latest version.
 
 Q: The program won't start!
