@@ -4,6 +4,8 @@ Automation platform (auto farmer, bot, etc.) for the popular game Pokemon GO. Th
 ## Premium Pokemon GO Bot
 This repository will continue to offer the free, open source version of MyGOBot. For updates and a premium botting experience (trial is available) please visit MyGOBot at the link below.
 
+We offer the most advanced and up to date Pokemon GO bot on the market. Developed using the most up to date technologies, it’s safe to stay MyGOBot will continue being stable with consistent functionality for the foreseeable future.
+
 MyGOBot - Leaders In Pokemon GO Automation : https://mygobot.org/
 
 ## Donations
