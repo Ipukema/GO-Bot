@@ -8,6 +8,15 @@ We offer the most advanced and up to date Pokemon GO bot on the market. Develope
 
 MyGOBot - Leaders In Pokemon GO Automation : https://mygobot.org/
 
+#### Premium features
+- Login with Google/PTC
+- Catches Pokemon in your area
+- Advanced anti-pattern technology to help reduce Niantics detection of your bot
+- Human walking algorithm
+- Incubates eggs
+- Transfers Pokemon based on IV or CP
+- Much more!
+
 ## Donations
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WXQX4UE94MWY)
 
@@ -15,7 +24,6 @@ MyGOBot - Leaders In Pokemon GO Automation : https://mygobot.org/
 - Loot Pokestops for XP and items
 - Catch Pokemon
 - Human like walking algorithm
-- Transfers duplicate Pokemon
 - Contributes to the distance required to hatch eggs
 - Customizable latitude/longitude as default location
 - Configuration screen for things such as sending duplicate Pokemon, evolving, minimum CP/IV, etc.
