@@ -7,6 +7,7 @@ This repository will continue to offer the free, open source version of MyGOBot.
 We offer the most advanced and up to date Pokemon GO bot on the market. Developed using the most up to date technologies, it’s safe to stay MyGOBot will continue being stable with consistent functionality for the foreseeable future.
 
 MyGOBot - Leaders In Pokemon GO Automation : https://mygobot.org/
+MyGOBot Pokemon GO Community Forums : http://community.mygobot.org/
 
 #### Premium features
 - Login with Google/PTC
